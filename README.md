@@ -55,7 +55,7 @@ Fullstack Developer
   </p>
   
   <p style="font-size: 16px; color: #666;">
-    🚀 Building the future of web development<br>
+     Building the future of software development<br>
     💡 Where syntax meets innovation
   </p>
 </div>
