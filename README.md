@@ -8,7 +8,7 @@
 <div align="center">
 👨‍💻 American Software Developer
 
-Where Possibilities End, Possibilities Begin!
+Cursed with knowledge!
 
 Fullstack Developer
 
