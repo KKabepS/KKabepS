@@ -10,7 +10,9 @@
 
 cursed with knowledge
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20" height="20"/> Active Website Developer & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="20" height="20"/> Active Discord Bot Developer
+✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20" height="20"/> Active Website Developer
+
+✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="20" height="20"/> Active Discord Bot Developer
 
 ---
 
