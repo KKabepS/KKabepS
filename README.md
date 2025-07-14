@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to My GitHub Profile</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+Kkapebs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+Kkapebs&weight=700" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 <div align="center">
 👨‍💻 American Software Developer
 
-Cursed with knowledge!
+cursed with knowledge
 
 Fullstack Developer
 
