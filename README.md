@@ -21,3 +21,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
 </p>
 
+<div align="center">
+  
+## 👨‍💻 Türkiye'li Bir Yazılım Geliştiricisi
+
+**İhtimallerin Bittiği Yerde, İhtimaller Başlar!**
+
+*Discord Bot Developer*
+
+---
+
+### 🌐 Sosyal Medya
+
+<p>
+  <a href="https://instagram.com/kullanici_adi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/kullanici_adi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/profil-adi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+</div>
