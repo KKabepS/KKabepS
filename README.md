@@ -6,9 +6,11 @@
 
 
 <div align="center">
+  <p>
 👨‍💻 American Software Developer
 Where Possibilities End, Possibilities Begin!
 Fullstack Developer
+    </p>
 <p>
   <a href="https://www.instagram.com/kkapebs/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
