@@ -10,7 +10,7 @@
 
 cursed with knowledge
 
-Fullstack Developer
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20" height="20"/> Active Website Developer & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="20" height="20"/> Active Discord Bot Developer
 
 ---
 
@@ -45,7 +45,7 @@ Fullstack Developer
 <h2 align="center">🌊 My Startup</h2>
 <div align="center">
   <a href="https://syntaxocean.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=SYNTAX+OCEAN;Dive+into+Ocean;Innovation+Awaits" alt="Startup Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=SYNTAX+OCEAN;Dive+into+Code;Innovation+Awaits" alt="Startup Typing SVG" />
   </a>
   
   <p>
@@ -55,7 +55,7 @@ Fullstack Developer
   </p>
   
   <p style="font-size: 16px; color: #666;">
-     Building the future of software development<br>
+    🚀 Building the future of web development<br>
     💡 Where syntax meets innovation
   </p>
 </div>
