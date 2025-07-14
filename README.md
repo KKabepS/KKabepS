@@ -51,14 +51,13 @@ Cursed with knowledge!
     </a>
   </p>
   
-  <p style="font-size: 16px; color: #666;">
-     Building the future of software development.<br>
-    
-  </p>
-  
   <p>
     <a href="https://discord.gg/syntaxocean">
       <img src="https://img.shields.io/badge/Discord-Syntax%20Ocean%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Syntax Ocean Discord Server" />
     </a>
+  </p>
+  <p style="font-size: 16px; color: #666;">
+     Building the future of software development.<br>
+    
   </p>
 </div>
