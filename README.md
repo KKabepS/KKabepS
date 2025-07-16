@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-👨‍💻 American Software Developer
+ American Software Developer
 
 Cursed with knowledge!
 
