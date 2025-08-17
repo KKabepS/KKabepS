@@ -41,7 +41,7 @@ Cursed with knowledge!
 
 ---
 
-<h2 align="center"> My Startup</h2>
+<h2 align="center"> My Startup coming soon</h2>
 <div align="center">
   <a href="https://syntaxocean.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=SYNTAX+OCEAN;Dive+into+Code;Innovation+Awaits" alt="Startup Typing SVG" />
