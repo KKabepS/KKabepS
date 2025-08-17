@@ -6,13 +6,15 @@
 ---
 
 <div align="center">
- American Software Developer
+ Turkish Software Developer
 
 Cursed with knowledge!
 
 ✅ Active Website Developer
 
 ✅ Active Discord Bot Developer
+
+✅ Active Cheat Developer
 
 ---
 
