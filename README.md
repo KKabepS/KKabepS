@@ -6,7 +6,6 @@
 ---
 
 <div align="center">
- Turkish Software Developer
 
 Cursed with knowledge!
 
