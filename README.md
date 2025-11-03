@@ -7,11 +7,6 @@
 
 <div align="center">
 
-Cursed with knowledge!
-
-✅ Active Website Developer
-
-✅ Active Discord Bot Developer
 
 ✅ Active Cheat Developer
 
