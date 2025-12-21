@@ -13,7 +13,7 @@
 ---
 
 <p>
-  <a href="https://www.instagram.com/kkapebs/">
+  <a href="https://www.instagram.com/kkabeps">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
