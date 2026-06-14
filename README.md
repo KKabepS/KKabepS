@@ -8,7 +8,7 @@
 <div align="center">
 
 
-✅ Active Cheat Developer
+Active Cheat Developer
 
 ---
 
