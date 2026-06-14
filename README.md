@@ -4,11 +4,11 @@
 </p>
 <div align="center">
 Active Cheat Developer
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KKabepS&color=grey&style=flat-square&label=PROFILE+VIEWS" />
-</p>
 <p>
   <a href="https://www.instagram.com/kkabeps">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KKabepS&color=grey&style=flat-square&label=PROFILE+VIEWS" />
 </p>
